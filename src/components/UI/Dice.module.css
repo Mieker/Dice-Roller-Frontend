@@ -1,10 +1,36 @@
 .dice {
-    height: 3rem;
-    width: 3rem;
-    background-color: coral;
-    border: 3px solid darkgray;
-    border-radius: 10px;
-    font-size: 20px;
-    font-weight: bold;
-    color: black;
+  height: 5rem;
+  width: 5rem;
+  background-color: darkcyan;
+  border: 3px solid whitesmoke;
+  border-radius: 10px;
+  box-shadow: 4px 4px #888888;
+  font-size: 36px;
+  font-weight: bold;
+  color: whitesmoke;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.dice_rolling {
+  -webkit-animation: spin 0.5s linear infinite;
+  -moz-animation: spin 0.5s linear infinite;
+  animation: spin 0.5s linear infinite;
+}
+
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
 }
