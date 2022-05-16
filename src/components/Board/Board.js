@@ -5,7 +5,10 @@ const Board = () => {
   const [throwResult, setThrowResult] = useState(6);
 
   const throwHandler = (props) => {
-    fetch("https://dicethrowerapp.herokuapp.com/roll/d6", {
+    let url = "https://dicethrowerapp.herokuapp.com/roll/d6";
+    // let url = "http://localhost:8080/roll/d6";
+
+    fetch(url, {
       mode: "cors",
       headers: {
         "Access-Control-Allow-Origin": "*",
@@ -14,7 +17,10 @@ const Board = () => {
       .then((response) => {
         return response.json();
       })
-      .then((data) => setThrowResult(data.throw));
+      .then((data) => {
+        console.log(data);
+        setThrowResult(data.throw);
+      });
   };
 
   return (
