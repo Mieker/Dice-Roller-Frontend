@@ -11,7 +11,10 @@ const Board = () => {
         "Access-Control-Allow-Origin": "*",
       },
     })
-      .then((response) => response.json())
+      .then((response) => {
+        response.json();
+        console.log(response);
+      })
       .then((data) => setThrowResult(data.throw));
   };
 
