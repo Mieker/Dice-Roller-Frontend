@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="90.69772" height="100" viewBox="0 0 90.69772 100" xml:space="preserve">
+<desc>Created with Fabric.js 4.6.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 43.88 24.5)" id="2xnKAhew4udRgM4yr0QQm"  >
+<filter id="SVGID_0" y="-24%" height="148%" x="-23%" width="146%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="3" dy="2" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(178,104,38)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(221,122,33); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_0);" vector-effect="non-scaling-stroke"  transform=" translate(-43.88, -24.5)" d="M 65.81966 24.5 L 87.75952 49 L 43.87976 49 L 0 49 L 21.93986 24.5 L 43.87972 0 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 -1 43.88 73.35)" id="_fUheG0XgOm7zeqPkKrIE"  >
+<filter id="SVGID_1" y="-24%" height="148%" x="-23%" width="146%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="3" dy="-2" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(178,104,38)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(221,122,33); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_1);" vector-effect="non-scaling-stroke"  transform=" translate(-43.88, -24.5)" d="M 65.81963 24.49999 L 87.75951 48.99998 L 43.879760000000005 48.99998 L 0.000010000000003174137 48.99998 L 21.939890000000002 24.49999 L 43.87977 0 z" stroke-linecap="round" />
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="57" height="85" viewBox="0 0 57 85" xml:space="preserve">
+<desc>Created with Fabric.js 4.6.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 27 20.94)" id="2xnKAhew4udRgM4yr0QQm"  >
+<filter id="SVGID_55" y="-25%" height="150%" x="-26%" width="152%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="3" dy="2" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(78,55,141)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(123,90,214); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_55);" vector-effect="non-scaling-stroke"  transform=" translate(-27, -20.94)" d="M 40.5 20.93792 L 54 41.87584 L 27 41.87584 L 0 41.87584 L 13.5 20.93792 L 27 0 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 -1 27 62.64)" id="_fUheG0XgOm7zeqPkKrIE"  >
+<filter id="SVGID_50" y="-25%" height="150%" x="-26%" width="152%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="3" dy="-2" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(78,55,141)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(123,90,214); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_50);" vector-effect="non-scaling-stroke"  transform=" translate(-27, -20.94)" d="M 40.5 20.93792 L 54 41.87584 L 27 41.87584 L 0 41.87584 L 13.5 20.93792 L 27 0 z" stroke-linecap="round" />
+</g>
+</svg>
